@@ -38,8 +38,8 @@ This is a simple Todo application built with Node.js and Express.js. It allows u
   The server will start listening on port 3000 by default.
 
 ## Endpoints
-- **GET /api/todos****: Get all Todo items.
-- **GET /api/todos/:id**: Get a single Todo item by ID.
-- **POST /api/todos**: Add a new Todo item.
-- **PUT /api/todos**: Update an existing Todo item.
-- **DELETE /api/todos/:id**: Delete a Todo item by ID.
+- **GET /api/todos** -> Get all Todo items.
+- **GET /api/todos/:id** -> Get a single Todo item by ID.
+- **POST /api/todos** -> Add a new Todo item.
+- **PUT /api/todos** -> Update an existing Todo item.
+- **DELETE /api/todos/:id** -> Delete a Todo item by ID.
